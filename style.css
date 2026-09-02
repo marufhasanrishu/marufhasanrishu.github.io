@@ -314,8 +314,9 @@ a {
 
 .projects-section {
     min-height: 70vh;
+    background: #f7f8f4;
+    color: #17231c;
 }
-
 .project-placeholder {
     border-top: 1px solid rgba(23, 35, 28, 0.2);
     border-bottom: 1px solid rgba(23, 35, 28, 0.2);
@@ -330,6 +331,7 @@ a {
 
 .journey-section {
     background: #e8ece5;
+    color: #17231c;
     max-width: none;
     padding-left: 8%;
     padding-right: 8%;
@@ -340,20 +342,20 @@ a {
     font-size: 1.3rem;
 }
 
-
 /* ========================================
    CONTACT
    ======================================== */
 
 .contact-section {
     min-height: 70vh;
+    background: #f7f8f4;
+    color: #17231c;
 }
 
 .contact-section h2 {
     font-size: clamp(3rem, 7vw, 6rem);
     margin-bottom: 25px;
 }
-
 
 /* ========================================
    FOOTER
