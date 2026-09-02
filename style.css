@@ -233,7 +233,31 @@ a {
     margin-bottom: 25px;
 }
 
+/* ========================================
+   WHY BOTANY
+   ======================================== */
 
+.why-botany-section {
+    background: #f0f3ed;
+    max-width: none;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.why-botany-section .section-heading {
+    max-width: 1000px;
+}
+
+.why-botany-content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: 8%;
+    font-size: 1.15rem;
+}
+
+.why-botany-content p {
+    margin-bottom: 25px;
+}
 /* ========================================
    RESEARCH
    ======================================== */
